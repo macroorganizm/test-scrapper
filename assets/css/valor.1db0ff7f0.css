@@ -279,7 +279,7 @@ figure {
 .hero {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("https://macroorganizm.github.io/test-scrapper//assets/images/5c4ae81f1252d5015b9c51ac_hero-bg.svg");
+  background-image: url("http://localhost:3000/assets/images/5c4ae81f1252d5015b9c51ac_hero-bg.svg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1266,57 +1266,57 @@ figure {
   padding-top: 56px;
   padding-bottom: 56px;
   background-color: #162b44;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .8)), to(rgba(7, 19, 34, .8))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c800ad5dd44785d0476fc3f_vacancy.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .8), rgba(7, 19, 34, .8)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c800ad5dd44785d0476fc3f_vacancy.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .8)), to(rgba(7, 19, 34, .8))), url("http://localhost:3000/assets/images/5c800ad5dd44785d0476fc3f_vacancy.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .8), rgba(7, 19, 34, .8)), url("http://localhost:3000/assets/images/5c800ad5dd44785d0476fc3f_vacancy.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__serv {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__clients {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6bce5942bae39ce8c527e7_proj-header-bg.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6bce5942bae39ce8c527e7_proj-header-bg.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6bce5942bae39ce8c527e7_proj-header-bg.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6bce5942bae39ce8c527e7_proj-header-bg.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__about {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6bd58a0e2f1c6cd3d9d043_about_20(1).jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6bd58a0e2f1c6cd3d9d043_about_20(1).jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6bd58a0e2f1c6cd3d9d043_about_20(1).jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6bd58a0e2f1c6cd3d9d043_about_20(1).jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__approach {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6c2b5dd1aaf38bd4f324d9_approach.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6c2b5dd1aaf38bd4f324d9_approach.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6c2b5dd1aaf38bd4f324d9_approach.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6c2b5dd1aaf38bd4f324d9_approach.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__careers {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6c319bab992ef2728d7c1e_careers.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6c319bab992ef2728d7c1e_careers.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6c319bab992ef2728d7c1e_careers.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6c319bab992ef2728d7c1e_careers.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__cont {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6d3c71255b5b2b617565eb_contact.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6d3c71255b5b2b617565eb_contact.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6d3c71255b5b2b617565eb_contact.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6d3c71255b5b2b617565eb_contact.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .header.header__blog {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .7)), to(rgba(7, 19, 34, .7))), url("http://localhost:3000/assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .7), rgba(7, 19, 34, .7)), url("http://localhost:3000/assets/images/5c6ac23380da2a577d6eece5_srv-header-bg.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
@@ -1326,8 +1326,8 @@ figure {
 }
 
 .header.memb__header {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .8)), to(rgba(7, 19, 34, .8))), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c792f5c1e4e8580b740a2b0_team.jpg");
-  background-image: linear-gradient(180deg, rgba(7, 19, 34, .8), rgba(7, 19, 34, .8)), url("https://macroorganizm.github.io/test-scrapper//assets/images/5c792f5c1e4e8580b740a2b0_team.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(7, 19, 34, .8)), to(rgba(7, 19, 34, .8))), url("http://localhost:3000/assets/images/5c792f5c1e4e8580b740a2b0_team.jpg");
+  background-image: linear-gradient(180deg, rgba(7, 19, 34, .8), rgba(7, 19, 34, .8)), url("http://localhost:3000/assets/images/5c792f5c1e4e8580b740a2b0_team.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
@@ -1484,7 +1484,7 @@ figure {
 .card__img {
   width: 100%;
   padding-bottom: 58%;
-  background-image: url("https://macroorganizm.github.io/test-scrapper//assets/images/example-bg.png");
+  background-image: url("http://localhost:3000/assets/images/example-bg.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1690,7 +1690,7 @@ figure {
 .node-img {
   width: 100%;
   max-width: 500px;
-  background-image: url("https://macroorganizm.github.io/test-scrapper//assets/images/example-bg.png");
+  background-image: url("http://localhost:3000/assets/images/example-bg.png");
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -1948,13 +1948,13 @@ figure {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url("https://macroorganizm.github.io/test-scrapper//assets/images/example-bg.png");
+  background-image: url("http://localhost:3000/assets/images/example-bg.png");
   background-position: 0px 0px;
   background-size: 125px;
 }
 
 .image-5 {
-  background-image: url("https://macroorganizm.github.io/test-scrapper//assets/images/example-bg.png");
+  background-image: url("http://localhost:3000/assets/images/example-bg.png");
   background-position: 0px 0px;
   background-size: 125px;
 }
