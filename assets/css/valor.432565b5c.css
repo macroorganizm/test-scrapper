@@ -1,4 +1,4 @@
-/* Generated on: Fri Mar 15 2019 11:52:53 GMT+0000 (UTC) */
+/* Generated on: Wed Mar 20 2019 14:29:46 GMT+0000 (UTC) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -878,7 +878,6 @@ figure {
 }
 
 .ref-card {
-  max-width: 700px;
   padding: 24px;
   border-radius: 4px;
   background-color: #fff;
