@@ -1,4 +1,4 @@
-/* Generated on: Wed Mar 20 2019 14:29:46 GMT+0000 (UTC) */
+/* Generated on: Fri Mar 22 2019 13:11:29 GMT+0000 (UTC) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -144,7 +144,7 @@ figure {
 }
 
 .container.blog__container {
-  max-width: 1000px;
+  max-width: 800px;
 }
 
 .container.blog__container.blog__alt {
@@ -174,6 +174,10 @@ figure {
 
 .el-wrap.el-wrap--red {
   background-color: #e9163a;
+}
+
+.el-wrap.el-wrap--max-400 {
+  max-width: 400px;
 }
 
 .el-name {
@@ -378,13 +382,11 @@ figure {
 }
 
 .ava {
-  width: 64px;
-  height: 64px;
+  width: 48px;
+  height: 48px;
+  min-height: 48px;
+  min-width: 48px;
   border-radius: 50%;
-}
-
-.ava.ava__memb {
-  width: 64px;
 }
 
 .icon {
@@ -424,11 +426,14 @@ figure {
 }
 
 .auth__name {
-  margin-left: 16px;
+  margin-left: 8px;
 }
 
 .auth__name.auth__name--white {
+  margin-top: 8px;
   color: #fff;
+  font-size: 20px;
+  line-height: 1.2em;
 }
 
 .auth__photo {
@@ -440,7 +445,6 @@ figure {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 24px;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -617,6 +621,10 @@ figure {
 }
 
 .col.ref__col {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   width: 50%;
 }
 
@@ -636,10 +644,6 @@ figure {
 }
 
 .col.art {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   width: 50%;
 }
 
@@ -754,7 +758,7 @@ figure {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 33.33%;
+  width: 25%;
 }
 
 .col.col__memb {
@@ -793,6 +797,14 @@ figure {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
+}
+
+.col.blog__col {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
 }
 
 .card {
@@ -1238,6 +1250,8 @@ figure {
   display: -ms-flexbox;
   display: flex;
   margin-top: 24px;
+  margin-right: -16px;
+  margin-left: -16px;
 }
 
 .auth__wrap {
@@ -1429,6 +1443,8 @@ figure {
 }
 
 .rich-text img {
+  min-width: 120%;
+  margin-left: -10%;
   border: 6px solid #f9fafc;
 }
 
@@ -1770,10 +1786,12 @@ figure {
 
 .memb__name {
   color: #f9fafc;
+  font-size: 48px;
+  line-height: 1.2em;
 }
 
 .memb__role {
-  color: #6a7f99;
+  color: #dae1ef;
 }
 
 .memb__desc {
@@ -1803,7 +1821,8 @@ figure {
 }
 
 .vac__loc {
-  color: #6a7f99;
+  margin-top: 16px;
+  color: #dae1ef;
 }
 
 .settings {
@@ -1890,11 +1909,17 @@ figure {
 }
 
 .auth__role {
+  margin-top: 4px;
   color: #dae1ef;
+  font-size: 16px;
+  line-height: 1.2em;
+  font-weight: 300;
 }
 
 .auth__date {
   color: #b9c2d7;
+  font-size: 16px;
+  line-height: 1em;
 }
 
 .rich-text-settings {
@@ -2017,6 +2042,132 @@ figure {
   text-align: center;
 }
 
+.blog-card {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 12px 0 hsla(213.33333333333331, 65.85%, 8.04%, 0.12);
+  -webkit-transition: box-shadow 200ms ease;
+  transition: box-shadow 200ms ease;
+  text-decoration: none;
+}
+
+.blog-card:hover {
+  box-shadow: 0 4px 20px 0 hsla(213.33333333333331, 65.85%, 8.04%, 0.12);
+  text-decoration: none;
+}
+
+.blog-card__img {
+  width: 100%;
+  padding-bottom: 58%;
+  background-image: url("https://macroorganizm.github.io/test-scrapper/assets/images/example-bg.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.blog-card__content {
+  padding: 16px 16px 112px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.blog-card__author-wrap {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 24px;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.blog-card__heading {
+  font-size: 22px;
+  line-height: 1.4em;
+}
+
+.blog-card__author {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+}
+
+.blog-card__author-photo {
+  width: 48px;
+  height: 48px;
+  margin-right: 12px;
+  border-radius: 50%;
+  background-image: url("https://macroorganizm.github.io/test-scrapper/assets/images/example-bg.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.blog-card__author-name {
+  margin-bottom: 4px;
+  font-family: 'Futurapt demi', sans-serif;
+  color: #071322;
+  font-size: 18px;
+  line-height: 1.2em;
+  font-weight: 500;
+}
+
+.blog-card__author-role {
+  color: #223d5d;
+  font-size: 16px;
+  line-height: 1.2em;
+}
+
+.test img {
+  display: block;
+  min-width: 120%;
+  margin-left: -10%;
+}
+
 @media (max-width: 991px) {
   .section-g {
     padding-top: 70px;
@@ -2117,6 +2268,9 @@ figure {
     -ms-flex: 0 auto;
     flex: 0 auto;
   }
+  .col.blog__col {
+    width: 50%;
+  }
   .vac__name {
     padding-left: 8px;
   }
@@ -2197,6 +2351,10 @@ figure {
   .ref__wrap-l {
     display: inline;
   }
+  .rich-text img {
+    min-width: auto;
+    margin-left: 0%;
+  }
   .ref-card__col {
     width: 100%;
   }
@@ -2213,6 +2371,12 @@ figure {
   .sec-header__desc-2.sec-header__desc--left {
     margin-right: 0px;
     margin-left: 0px;
+  }
+  .blog-card__author {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 }
 
@@ -2362,9 +2526,6 @@ figure {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-  }
-  .col.art__col {
-    width: 100%;
   }
   .col.ben__col {
     width: 50%;
@@ -2536,12 +2697,18 @@ figure {
     -ms-flex: 0 auto;
     flex: 0 auto;
   }
+  .col.art__col {
+    width: 100%;
+  }
   .col.ben__col {
     width: 100%;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
+  }
+  .col.blog__col {
+    width: 100%;
   }
   .btn-wrap {
     margin-top: 40px;
