@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://macroorganizm.github.io/test-scrapper</loc></url>
-  <url><loc>https://macroorganizm.github.io/test-scrapper/test/test2</loc></url>
-  <url><loc>https://macroorganizm.github.io/test-scrapper/test/test1</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/services</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/clients</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/about</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/approach</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/careers</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/blog</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/contact</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/career-builder</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/gapminder</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/zuora</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/dollar-street</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/liberty-flights</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/souqalmal</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/priceshredder</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/articles/testing-canvas-could-be-easier</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/articles/case-study-of-applitools-or-not-only-cypress-cross-browser-testing</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/articles/figma-for-everyone-unifying-presentation-templates</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/articles/cypress-parallelization-case-study-results</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/vizabi-tools</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/projects/tables-ready</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/it-sales-manager</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/middle-devops</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/middle-qa</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/lead-generation-remote</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/jun-tech-writter</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/js-full-stack-dev</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/js-ai-ml-based-dev</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/back-end-dev</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/senior-angular-ns-dev</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/ba</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/all-vacancies/pm</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/articles/quality-assured-what-it-really-takes-to-test-open-source-libraries</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/articles/when-sketch-hits-figma-text-alignment-comparison</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/persons/ludmila-nesvitiy</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/persons/iliya-vostrikov</loc></url>
+  <url><loc>https://macroorganizm.github.io/test-scrapper/persons/mikhail-voloshin</loc></url>
 </urlset>
